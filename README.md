@@ -4,6 +4,8 @@
 **Founding record:** November 17, 2026  
 **Project status:** Founding research specification; no working simulator or validated evolved design yet.
 
+**License: ALL RIGHTS RESERVED. No general public reuse permission is offered.** Permission must be requested from the owner for use of protected materials. See [LICENSE](LICENSE), [NOTICE](NOTICE), and [Licensing Correction](LICENSING_CORRECTION.md). The owner expressly disputes the earlier AI-agent-posted CC BY 4.0 notice as unrequested and unintended; the legal effect of any prior publication is unresolved.
+
 > **EvoRig** asks a question: what could an all-terrain truck become if its body and chassis never changed, but its four wheels, engine and gearbox could adapt within a lifetime and evolve over generations?
 
 ## The invariant
@@ -29,14 +31,11 @@ The fixed chassis makes the test unusually clear: how much capability can arise 
 3. [MuJoCo Simulation Specification](docs/MUJOCO_SIMULATION_SPEC.md) — physical modeling and fidelity limitations.
 4. [API-First Architecture](docs/API_FIRST_ARCHITECTURE.md) — subsystems, reproducibility and interfaces.
 5. [Experiment and Milestone Plan](docs/EXPERIMENT_PLAN.md) — prototype sequence and acceptance criteria.
-6. [Attribution and Contributions](CONTRIBUTING.md) — contribution and credit instructions.
-7. [NOTICE](NOTICE) and [LICENSE](LICENSE) — original-concept credit and legally applicable attribution requirement.
+6. [NOTICE](NOTICE), [LICENSE](LICENSE), and [Licensing Correction](LICENSING_CORRECTION.md) — original-concept credit, permission requirement and corrected owner intent.
 
-## Founder attribution and license
+## Founder rights and attribution
 
-**Original EvoRig idea and founding concept: thanks-cohn (@thanks-cohn).**
-
-The **founding documentation is licensed CC BY 4.0**, allowing reuse, modification and commercial adaptation with attribution to its creator. The exact attribution and legal scope are in [LICENSE](LICENSE) and [NOTICE](NOTICE). Please credit the idea's origin even for implementations independently inspired by it. **Copyright licenses cannot, by themselves, require credit solely for borrowing an unprotected abstract idea.** Future software code requires its own explicit software license.
+**Original EvoRig idea and founding concept: thanks-cohn (@thanks-cohn).** The owner requires express written authorization for reuse of the owner's protected creative materials; attribution alone does not grant permission. Read the legal scope and historical correction before relying on any license statement. Copyright protects expression, not abstract ideas or systems; potential patent protection is a separate legal question.
 
 ## What this repository does not claim
 
