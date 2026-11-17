@@ -1,25 +1,34 @@
-EvoRig — Founding Attribution Notice
-===================================
-
-Original EvoRig idea, invention concept, and founding research direction:
+EvoRig — Founding Attribution and Rights Notice
+================================================
+Founding original EvoRig concept and research direction:
   thanks-cohn (@thanks-cohn)
   https://github.com/thanks-cohn/EvoRig
-Founding record: 2026-11-17
+Founding record: November 17, 2026
 
-EvoRig's original concept is a vehicle with a permanently unchanged
-truck chassis and body, but an adaptive, evolvable drivetrain consisting
-of four wheels, an engine and a gearbox/transmission. The drivetrain can
-reconfigure during an individual simulated lifetime and its inherited
-design can evolve over generations through a progressively harder,
-physics-based MuJoCo terrain curriculum toward realistic human-world
-terrain conditions over a proposed 10,000 training cycles.
+EvoRig begins with a permanently unchanged truck chassis and body while
+four wheel assemblies, an engine and a gearbox/transmission are allowed to
+adapt during operation and evolve over generations through a progressively
+harder simulated terrain curriculum.
 
-Please preserve the following acknowledgement when redistributing or
-adapting copyrighted EvoRig founding materials:
+All rights reserved with respect to copyrightable material owned by the
+project owner. The current repository materials are NOT offered under a
+Creative Commons, open-source, open-content, or general reuse license.
+Ask the owner for express written permission before carrying out acts
+requiring copyright-owner authorization. Crediting alone is insufficient.
 
-  "Based on EvoRig, an original concept conceived by thanks-cohn
-  (@thanks-cohn). Project: https://github.com/thanks-cohn/EvoRig"
+OWNER'S CORRECTION: The AI agent initially added a CC BY 4.0 license
+without the owner's specific request or informed approval. The owner says
+that this was an error contrary to his intention; he had requested proper
+credit, not permission for the public to reuse the materials. The owner
+disputes that the prior license was an authorized grant, withdraws it as
+the current licensing position, and has replaced it with all rights
+reserved. See LICENSING_CORRECTION.md and LICENSE.
 
-The binding reuse license for existing founding materials is CC BY 4.0,
-as specified in LICENSE. This NOTICE records origin and requested wording;
-it is not a separate restriction on independently created ideas.
+This correction does not adjudicate whether any past legally effective
+license grant existed. Existing rights, if any, cannot necessarily be
+extinguished by editing a GitHub file. Nor is an unprotected abstract idea
+subject to copyright exclusivity merely because it appears in a project.
+
+Preferred attribution after explicit permission:
+  "EvoRig, original concept by thanks-cohn (@thanks-cohn).
+   Source: https://github.com/thanks-cohn/EvoRig"
