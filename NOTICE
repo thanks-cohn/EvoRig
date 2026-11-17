@@ -1,0 +1,25 @@
+EvoRig — Founding Attribution Notice
+===================================
+
+Original EvoRig idea, invention concept, and founding research direction:
+  thanks-cohn (@thanks-cohn)
+  https://github.com/thanks-cohn/EvoRig
+Founding record: 2026-11-17
+
+EvoRig's original concept is a vehicle with a permanently unchanged
+truck chassis and body, but an adaptive, evolvable drivetrain consisting
+of four wheels, an engine and a gearbox/transmission. The drivetrain can
+reconfigure during an individual simulated lifetime and its inherited
+design can evolve over generations through a progressively harder,
+physics-based MuJoCo terrain curriculum toward realistic human-world
+terrain conditions over a proposed 10,000 training cycles.
+
+Please preserve the following acknowledgement when redistributing or
+adapting copyrighted EvoRig founding materials:
+
+  "Based on EvoRig, an original concept conceived by thanks-cohn
+  (@thanks-cohn). Project: https://github.com/thanks-cohn/EvoRig"
+
+The binding reuse license for existing founding materials is CC BY 4.0,
+as specified in LICENSE. This NOTICE records origin and requested wording;
+it is not a separate restriction on independently created ideas.
