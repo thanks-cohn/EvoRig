@@ -1,0 +1,48 @@
+EvoRig Founding Materials — Attribution License
+================================================
+
+Copyright © 2026 thanks-cohn.
+
+All original written documentation, specifications, diagrams, and other
+copyrightable founding materials published in this repository are licensed
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+SPDX-License-Identifier: CC-BY-4.0
+
+Full, controlling license text:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+This license permits copying, redistribution, modification, adaptation,
+commercial use, and building upon the LICENSED MATERIAL, provided that the
+license's attribution conditions are followed. No permission or approval is
+required to reuse licensed material in compliance with CC BY 4.0.
+
+Required attribution identity for this project:
+  Original EvoRig idea and founding concept: thanks-cohn (@thanks-cohn)
+  Source: https://github.com/thanks-cohn/EvoRig
+
+When sharing this material or adaptations, give appropriate credit to
+thanks-cohn, link to the source and CC BY 4.0 license, and indicate whether
+changes were made, in a reasonable manner appropriate to the medium.
+Do not imply endorsement by the original creator.
+
+The project specifically asks reusers who build on the EvoRig concept to
+acknowledge its origin even when legally independent implementations are
+outside the scope of copyright licensing.
+
+SCOPE AND LIMITATION
+--------------------
+A copyright license governs copyrightable materials and the rights the
+licensor actually owns. It does NOT give anyone exclusive rights in an
+abstract idea, general scientific principle, method, or independently
+implemented concept. It therefore cannot legally compel attribution from
+all people merely inspired by the idea without using protected material.
+No patent or trademark rights are granted or asserted here.
+
+At founding, this repository consists of documentation, not executable
+software. If source code is added later, its applicable software license
+must be stated explicitly; Creative Commons does not recommend CC licenses
+for software code.
+
+This notice summarizes the licensing intent; the CC BY 4.0 legal code
+linked above controls where the summary differs.
