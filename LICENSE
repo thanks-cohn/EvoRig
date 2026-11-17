@@ -1,48 +1,58 @@
-EvoRig Founding Materials — Attribution License
-================================================
+EVORIG — ALL RIGHTS RESERVED / PERMISSION REQUIRED
+==================================================
+Copyright © 2026 thanks-cohn (@thanks-cohn)
+Founding creator and concept originator: thanks-cohn
+https://github.com/thanks-cohn/EvoRig
 
-Copyright © 2026 thanks-cohn.
+CURRENT OWNER'S LICENSE DECLARATION (NOVEMBER 17, 2026)
 
-All original written documentation, specifications, diagrams, and other
-copyrightable founding materials published in this repository are licensed
-under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+NO GENERAL LICENSE IS GRANTED. ALL RIGHTS RESERVED.
 
-SPDX-License-Identifier: CC-BY-4.0
+The repository owner does not offer the current or future original
+copyrightable EvoRig materials (including documentation, drawings,
+specifications, source code, and other protected expression) for
+general public copying, adaptation, redistribution, or commercial use.
 
-Full, controlling license text:
-https://creativecommons.org/licenses/by/4.0/legalcode
+To the extent an activity requires copyright-owner authorization, obtain
+the owner's express WRITTEN permission BEFORE doing it. Merely crediting
+thanks-cohn is NOT permission.
 
-This license permits copying, redistribution, modification, adaptation,
-commercial use, and building upon the LICENSED MATERIAL, provided that the
-license's attribution conditions are followed. No permission or approval is
-required to reuse licensed material in compliance with CC BY 4.0.
+Request permission from the project owner via:
+https://github.com/thanks-cohn
 
-Required attribution identity for this project:
-  Original EvoRig idea and founding concept: thanks-cohn (@thanks-cohn)
-  Source: https://github.com/thanks-cohn/EvoRig
+CORRECTION OF UNREQUESTED PRIOR LICENSE PUBLICATION
 
-When sharing this material or adaptations, give appropriate credit to
-thanks-cohn, link to the source and CC BY 4.0 license, and indicate whether
-changes were made, in a reasonable manner appropriate to the medium.
-Do not imply endorsement by the original creator.
+On November 17, 2026, an AI agent mistakenly published a license file
+offering EvoRig founding materials under Creative Commons Attribution
+4.0 International (CC BY 4.0). The owner expressly states:
 
-The project specifically asks reusers who build on the EvoRig concept to
-acknowledge its origin even when legally independent implementations are
-outside the scope of copyright licensing.
+- The original instruction was to ensure credit for the idea.
+- The owner did NOT ask for, intend, or authorize an open public
+  license or permission for others to build upon protected material.
+- The CC BY 4.0 notice was an agent error and contrary to the
+  owner's expressed intent.
+- The owner disputes that mistaken posting as an authorized grant.
+- The owner does not consent to licensing the project under CC BY 4.0.
 
-SCOPE AND LIMITATION
---------------------
-A copyright license governs copyrightable materials and the rights the
-licensor actually owns. It does NOT give anyone exclusive rights in an
-abstract idea, general scientific principle, method, or independently
-implemented concept. It therefore cannot legally compel attribution from
-all people merely inspired by the idea without using protected material.
-No patent or trademark rights are granted or asserted here.
+The mistaken notice is withdrawn from the CURRENT repository licensing
+position. THIS FILE DOES NOT GRANT A CC BY 4.0 LICENSE. The owner
+requests that readers do not rely on the mistaken posting as permission
+to use protected EvoRig work without contacting the owner.
 
-At founding, this repository consists of documentation, not executable
-software. If source code is added later, its applicable software license
-must be stated explicitly; Creative Commons does not recommend CC licenses
-for software code.
+LEGAL QUALIFICATION
 
-This notice summarizes the licensing intent; the CC BY 4.0 legal code
-linked above controls where the summary differs.
+This correction is the owner's declaration, not a definitive legal
+ruling about the effect of the original publication. CC BY 4.0 is
+generally irrevocable when validly granted; whether a valid grant
+occurred through the agent's erroneous posting is a fact-specific
+legal question. Earlier Git history or copies may remain accessible,
+and a later notice cannot by itself extinguish any rights that were
+legally granted. The owner should consult qualified IP counsel about
+the earlier publication.
+
+Copyright protects original expression, not abstract concepts, methods,
+or scientific principles as such. No patent or trademark rights are
+asserted or granted here. Independent lawful uses and statutory
+exceptions are not overridden.
+
+See LICENSING_CORRECTION.md for the contemporaneous correction record.
